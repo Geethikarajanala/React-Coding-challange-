@@ -4,6 +4,7 @@ const Followers = () => {
   return (
     <>
       <h1>number of followers</h1>
+      
     </>
   );
 };
